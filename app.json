@@ -58,7 +58,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "Hey {mention}👋\n\n{file_name}\n\n🔘 size - {file_size}\n\n╭─── • ❰ @MR_LINK_Z ❱ • ────➤\n┣ ▫️ @MRxSERIES\n┣ ▫️ @MalluMovie_Official\n╰─────── • ◆ • ───────➤",
+            "value": "<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code><b>/n/n🔰 𝙹𝙾𝙸𝙽 𝙼𝙰𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👇/n/n🍿ᴄʜʟ : @Movies_Tamizhaaas /n⚡️ɢʀᴘ : @MT_Movies_Request</b>",
             "required": false
         },
         "DATABASE_URI": {
