@@ -42,7 +42,7 @@ async def start(client, message):
             InlineKeyboardButton("🎈 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/GM_Botzz'), 
-            InlineKeyboardButton("💥 𝙶𝚁𝙾𝚄𝙿 💥", url="https://t.me/MT_Movies_Request")
+            InlineKeyboardButton("💥 𝙶𝚁𝙾𝚄𝙿 💥", url="https://t.me/+8_ghsZzulNkyYmI1")
             ],[
             InlineKeyboardButton("⚙️ 𝙷𝙴𝙻𝙿 ⚙️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
@@ -51,7 +51,7 @@ async def start(client, message):
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
-        m=await message.reply_sticker("CAADAgADbgADQbVWDNClhHLm3FqIAg")
+        m=await message.reply_sticker("CAACAgIAAxkBAAJIRGWtJH_ubqXUD9kJgIfLEuH016p4AAJUAANBtVYMarf4xwiNAfoeBA")
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -94,7 +94,7 @@ async def start(client, message):
             InlineKeyboardButton("🎈 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/GM_Botzz'), 
-            InlineKeyboardButton("💥 𝙶𝚁𝙾𝚄𝙿 💥", url="https://t.me/MT_Movies_Request")
+            InlineKeyboardButton("💥 𝙶𝚁𝙾𝚄𝙿 💥", url="https://t.me/+8_ghsZzulNkyYmI1")
             ],[
             InlineKeyboardButton("⚙️ 𝙷𝙴𝙻𝙿 ⚙️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
@@ -103,7 +103,7 @@ async def start(client, message):
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
-        m=await message.reply_sticker("CAADAgADbgADQbVWDNClhHLm3FqIAg")
+        m=await message.reply_sticker("CAACAgIAAxkBAAJIRGWtJH_ubqXUD9kJgIfLEuH016p4AAJUAANBtVYMarf4xwiNAfoeBA")
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
